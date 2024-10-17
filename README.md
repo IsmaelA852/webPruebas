@@ -22,6 +22,7 @@ git commit -m "creo la pagina web inicial"
 ```
 
 ## Conecta el repositorio local con el repositorio remoto
+Mira la ruta en github
 ```
 git remote add origin https://github.com/IsmaelA852/webprueba.git
 ```
@@ -30,3 +31,11 @@ git remote add origin https://github.com/IsmaelA852/webprueba.git
 ```
 git push -u origin master
 ```
+
+## Muestra las distintas ramas de mi repositorio
+```
+git branch
+```
+
+rmdir /s .git
+dir /a
